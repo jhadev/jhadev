@@ -10,14 +10,14 @@ const personal = {
   name: 'Josh Appel'
   location: 'NJ, USA'
   email: 'joshappeldev "at" gmail.com'
-}
+};
 
 
 const professional = {
   employed: true
   title: 'Performance Engineer'
   employer: 'Tapestry'
-}
+};
 
 const bio = {
   interests: [
@@ -28,7 +28,7 @@ const bio = {
     'GraphQL',
     'Web Performance'
   ]
-}
+};
 
 ```
 
