@@ -1,5 +1,7 @@
 ## COOKIE CONSENT POLICY
 
+<a href="https://github.com/jhadev?tab=stars">Starred Repo List</a>
+
 <details>
   <summary>ACCEPT ALL COOKIES</summary>
   <details>
