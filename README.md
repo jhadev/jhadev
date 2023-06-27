@@ -1,7 +1,5 @@
 ## COOKIE CONSENT POLICY
 
-####   <a href="https://frontendmasters.com/u/josh_dev/">https://frontendmasters.com/u/josh_dev/</a>
-
 <details>
   <summary>ACCEPT ALL COOKIES</summary>
   <details>
